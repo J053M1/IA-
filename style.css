@@ -1,0 +1,32 @@
+body
+{
+    background-color:rgb(87, 110, 209);
+    color:black;
+}
+.heading
+{
+    width:80%;
+    font-size:22px;
+
+}
+.objetos
+{
+    color:rgb(132, 233, 233);
+
+}
+#camera
+{
+    width:350px;
+    height:300px;
+    border:2px solid orangered;
+}
+#nombre_objeto,#precision_objeto
+{
+    color:lightskyblue;
+}
+#fotocapture
+{
+    width: 250px;
+    height: 200px;
+
+}
